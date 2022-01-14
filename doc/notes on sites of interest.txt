@@ -1,0 +1,60 @@
+Site #1: High Park
+
+CH4:
+
+2018-08-16_Truck
+	from google maps
+		43.63959986590347, -79.45830471715705 (by water)
+		43.653895425659165, -79.46310744915318 (bloor st)
+		Q: how do i match up the enhancement data with the wind data in particular locations?
+	weather stn dir of max wind for this day is 230 deg
+2018-08-28
+	weather stn dir of max wind for this day is 200 deg
+	at a glance these enhancements could be from east or west, but weather stn wind data leads me to think they come from east (high park)
+2019-04-15_Truck
+	weather stn dir of max wind for this day is 300 deg
+2019-12-12_Truck
+	weather stn dir of max wind for this day is 160 deg
+2020-07-31
+	weather stn dir of max wind for this day is missing
+
+
+CO2:
+
+2018-06-29		nope this is co2
+2018-12-04_Truck	nope this is also co2
+2019-04-25_Truck	nope this is co2 again
+
+
+Site #2: Yonge and Gerrard ish
+
+reasoning, peaks observed on numerous days, as well as some others closeby that are not listed below
+
+2019-04-04_Truck ?
+2018-09-13
+2020-03-05
+2019-07-03
+2019-07-09 (are background concentrations just really high in that area? if so this is a smaller peak)
+
+
+Site #3: Riverdale Park
+
+2019-12-12 tall
+2020-10-21 short but still "tall shaped"
+2019-06-12 wide and flat
+
+these are diff days so hard to look at wind
+
+
+Site #4: German Mills Settlers Park
+
+2019-06-06_Truck several flat & wide peaks closeby (a little ways away)
+2019-12-12_Truck
+2018-08-28_Truck
+2018-08-16_Truck wind is 230 deg according to weather stn which blows from smaller peak to larger hmm
+2021-08-09 Sebastien went there purposely!
+
+Leslie Pumping Station at south end of park
+former Sabiston Landfill in the park, very close to road
+
+

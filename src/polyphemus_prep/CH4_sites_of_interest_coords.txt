@@ -1,0 +1,6 @@
+name,lat,lon
+German Mills Settlers Park,43.826106,-79.378683
+Riverdale Park,43.672539,-79.356594
+High Park,43.647050,-79.464227
+West Mall,43.615585,-79.566838
+Downtown,43.659022,-79.382626

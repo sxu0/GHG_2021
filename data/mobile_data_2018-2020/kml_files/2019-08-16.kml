@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<kml xmlns="http://www.opengis.net/kml/2.2">
+		<Document>
+
+				<!-- Instrument Trace #0-->
+		<!-- baseline = 1.949098-->
+		<!-- multiplier = 1000.0-->
+
+				<Style id="lineStyle0">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff0000ff</color>
+			</PolyStyle>
+		</Style>
+
+				<Placemark>
+			<name>Picarro Instrument Trace - CH4</name>
+			<styleUrl>lineStyle0</styleUrl>
+			<LineString>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>
