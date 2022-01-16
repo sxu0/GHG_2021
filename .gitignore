@@ -2,6 +2,7 @@
 *.lnk
 *.zip*
 .vscode/
+pylint-out.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
