@@ -21,6 +21,7 @@ pylint = "^2.12.2"
 pylint-runner = "^0.6.0"
 isort = "^5.10.1"
 pre-commit = "^2.16.0"
+pandoc = "^2.0.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
